@@ -1,21 +1,21 @@
 ### Redux Book Catalog App
+This is a straightforward Redux and React book catalog application. It searches for books and lists them using the Books API. Books can then be added to the user's list of favorites. used Redux Toolkit to manage the state and RTK Query to retrieve, remove, create, and update data from the API.
 
-This is a simple book catalog app built with React and Redux. It uses the Books API to search for books and display them in a list. The user can then add books to a list of favorites. Used RTK Query to fetch, delete, create, update data from the API and Redux Toolkit to manage the state.
 
 ## Login and Register Pages
 
-If you are not Logged in, you will be redirected to the Login page. If you don't have an account, you can register a new one. after successful login, you will be redirected to the Home page.
+You will be sent to the Login page if you are not currently logged in. You can create a new account if you don't already have one. Your browser will transport you to the Home page following a successful login.
 
 email: test@gmail.com
 password: 12345678
 
 ## Home Page
 
-The Home page contains a search bar where you can search for books. The search results will be displayed in a list.
+You can look up books using the search box on the Home page. A list of the search results will be shown.
 
 ## Book Details Page
 
-You can visit the book details page by clicking on the book card on the Home page. you can edit and delete book from the book details page. you can edit and delete book from the book details page.
+By selecting the book card on the homepage, you can access the book details page. The book information page allows you to change and delete the book. The book information page allows you to change and delete the book.
 
 ## Add Book Page
 
